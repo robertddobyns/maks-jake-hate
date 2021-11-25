@@ -18,7 +18,7 @@ function App() {
   return (
     <div className={classes.root}>
       <Header/>
-        <Typography variant={'h3'}>I hate when Jake Gyllanhal:</Typography>
+        <Typography variant={'h3'}>I hate when Jake Gyllenhaal:</Typography>
         <CardMedia
           component={'img'}
           height={'500px'}
